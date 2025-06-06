@@ -18,11 +18,11 @@ export default function HomePage() {
       <section className="w-full max-w-4xl bg-blue-800 bg-opacity-20 rounded-2xl p-8 shadow-xl text-center">
         <h2 className="text-2xl md:text-3xl font-semibold mb-4">Why Choose Cloud Home?</h2>
         <ul className="text-left text-gray-300 space-y-3 mb-8">
-          <li>✅ Plug and play simplicity</li>
-          <li>✅ Automatically utilizes home Wi-Fi for faster transfer</li>
-          <li>✅ Seamless remote access from anywhere</li>
-          <li>✅ Military-grade encryption</li>
-          <li>✅ Easy web-based management</li>
+          <li> - Plug and play simplicity</li>
+          <li> - Automatically utilizes home Wi-Fi for faster transfer</li>
+          <li> - Seamless remote access from anywhere</li>
+          <li> - Military-grade encryption</li>
+          <li> - Easy web-based management</li>
         </ul>
         <button className="bg-blue-600 hover:bg-blue-700 transition-colors px-6 py-3 rounded-xl text-lg font-semibold shadow-md">
           Start Your Free Trial
