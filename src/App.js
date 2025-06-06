@@ -25,7 +25,7 @@ export default function HomePage() {
           <li> - Easy web-based management</li>
         </ul>
         <button className="bg-blue-600 hover:bg-blue-700 transition-colors px-6 py-3 rounded-xl text-lg font-semibold shadow-md">
-          Start Your Free Trial
+          Sign Up Now
         </button>
       </section>
 
