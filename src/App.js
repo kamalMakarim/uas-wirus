@@ -16,7 +16,7 @@ export default function HomePage() {
       </div>
 
       <section className="w-full max-w-4xl bg-blue-800 bg-opacity-20 rounded-2xl p-8 shadow-xl text-center">
-        <h2 className="text-2xl md:text-3xl font-semibold mb-4">Why Choose Cloud Home?</h2>
+        <h2 className="text-2xl md:text-3xl font-semibold mb-4">Why Choose Home Cloud?</h2>
         <ul className="text-left text-gray-300 space-y-3 mb-8">
           <li> - Plug and play simplicity</li>
           <li> - Automatically utilizes home Wi-Fi for faster transfer</li>
@@ -30,7 +30,7 @@ export default function HomePage() {
       </section>
 
       <footer className="w-full max-w-4xl text-center mt-10 text-gray-500">
-        <p>&copy; {new Date().getFullYear()} Cloud Home Inc. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} Cloud Home Inc. All rights reserved. Kamal Makarim Iskandar, Fairuz Muhammad, George Wiliam Thomas Gonata</p>
       </footer>
     </div>
   );
