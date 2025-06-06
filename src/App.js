@@ -12,7 +12,7 @@ export default function HomePage() {
       </header>
 
       <div className="w-full max-w-4xl mb-10">
-        <img src={nasImage} alt="Cloud Home NAS" className="rounded-xl w-full h-auto object-cover shadow-lg" />
+        <img src={nasImage} alt="Cloud Home NAS" className="rounded-xl w-auto mx-auto object-cover shadow-lg max-h-[30vh]" />
       </div>
 
       <section className="w-full max-w-4xl bg-blue-800 bg-opacity-20 rounded-2xl p-8 shadow-xl text-center">
